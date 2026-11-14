@@ -1,0 +1,6 @@
+{
+  "name": "RomanSes Stüdyo",
+  "description": "PDF, EPUB ve metin kitaplarındaki karakterleri ve duyguları yapay zeka ile analiz ederek her karaktere özel cinsiyet, ses tonu ve duygu modülasyonuyla çok sesli seslendirme, sayfa görseli analizi ve sahne/karakter illüstrasyonu üreten sesli roman stüdyosu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

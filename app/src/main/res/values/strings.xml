@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RomanSes Stüdyo</string>
+    <string name="studio_subtitle">Yapay Zeka Destekli Çok Sesli &amp; Duygusal Roman Seslendirme Stüdyosu</string>
+    <string name="nav_library">Kitaplık &amp; Yükle</string>
+    <string name="nav_player">Sesli Sahne</string>
+    <string name="nav_cast">Karakter Sesleri</string>
+    <string name="nav_vision">Sayfa Analizi</string>
+    <string name="nav_art_studio">Görsel Stüdyo</string>
+    <string name="upload_book_cta">PDF / EPUB / TXT Kitap Yükle</string>
+    <string name="paste_text_cta">Metin veya Bölüm Yapıştır</string>
+    <string name="firebase_required_notice">Firebase AI Logic kurulumu onaylanmadığı için yapay zeka özellikleri (gemini-4-argon &amp; gemini-nano-banana-2.1) şu anda örnek (placeholder) yanıtlar ve yerel diyalog/duygu çözümleyici ile çalışmaktadır. Gerçek Gemini modellerini bağlamak için Firebase kurulumunu etkinleştirebilirsiniz.</string>
+</resources>
